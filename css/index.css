@@ -1,0 +1,26 @@
+header {
+    background-color: #828282;
+}
+
+nav {
+    text-align: right;
+}
+
+a {
+    color: #FFF;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}    
+        
+#button {
+    display: inline-block;
+    background-color: #4C5B84;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 18px;
+    padding-right: 18px;
+    box-shadow: 5px 5px 0px black;
+}
