@@ -1,0 +1,20 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}    
+      
+.action::before {
+    content: "";
+    background-color: #FF4C29;
+    height: 10px;
+    width: 10px;
+    margin-right: 10px;
+}
+
+
