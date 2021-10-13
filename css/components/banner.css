@@ -1,11 +1,12 @@
 .banner {
+    box-sizing: borde;
     background-image: url(../../assets/img/Group\ 3.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 800px;
     border-bottom: 10px solid #000;
-    
-   
+    padding-left: 90px;
+    padding-top: 115px;
 }
 
 .banner .wrapper {
@@ -14,7 +15,12 @@
     width: 640px;
 }
 
+.banner .box{
+    margin-bottom: 40px;
+    
+}
+
 .banner .navigation{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
