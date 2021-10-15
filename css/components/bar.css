@@ -1,0 +1,12 @@
+.bar {
+    height: 25px;
+    background-color: #CCC;
+    position: relative;
+}
+
+.bar .progress{
+    position: absolute;
+    height: 100%;
+    background-color: #0fd439;
+    
+}
